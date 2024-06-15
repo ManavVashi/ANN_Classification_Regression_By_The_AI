@@ -1,13 +1,17 @@
-here I bind all my done with ANN(Artifitial Neural Network)
-I solved 
+# ANN_Classification_Regression_By_The_AI
+
+* I tried ANN for classification and regression problems. I included all the necessary theories required to write a code in my notebook. I tried to do code in as simple as possible manner that everyone could understand. If you 
+  are a beginner then this repository could be the best start for you if you want to know about ANN.
+
+#
 1. binary classification problem using ANN
-   notebook:binary-class-classification-ann.ipynb
-   dataset: Churn_Modelling.csv
+* Notebook:binary-class-classification-ann. ipynb
+* Dataset: Churn_Modelling.csv
    
 3. multiclass classification problem using ANN
-   notebook: Multiclass_Classification_ANN_Tensorflow.ipynb
-   dataset: mnist dataset from keras library
+* Notebook: Multiclass_Classification_ANN_Tensorflow. ipynb
+* Dataset: mnist dataset from keras library
    
 5. regression problem using ANN
-   notebook: regression-problem-ann-tensorflow.ipynb
-   dataset: Admission_Predict_Ver1.1.csv
+* Notebook: regression-problem-ann-tensorflow. ipynb
+* Dataset: Admission_Predict_Ver1.1.csv
